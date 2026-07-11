@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<h2 id="about">About Me</h2>
+
 I am a **Youth Researcher Professor** at **Software Engineering Institue, East China Normal University**. My research focuses on **formal methods** and **trustworthy artificial intelligence**, with particular interests in program verification, probabilistic programming, runtime verification, safe reinforcement learning, embodied AI safety, and LLM safety.
 
 Previously, I was a postdoctoral researcher at the **University of Oxford** and **Nanyang Technological University**. I received my Ph.D. from **Shanghai Jiao Tong University**, and my B.Sc. from **East China Normal University**.
@@ -15,7 +17,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 ---
 
-# Research Interests
+<h2 id="research">Research Interests</h2>
 
 - Formal Methods
 - Program Verification
@@ -27,7 +29,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 ---
 
-# Publications
+<h2 id="publications">Publications</h2>
 
 {% include base_path %}
 
@@ -54,7 +56,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 ---
 
-# Talks
+<h2 id="talks">Talks</h2>
 
 {% for post in site.talks reversed %}
 {% include archive-single-talk.html %}
@@ -62,7 +64,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 ---
 
-# Teaching
+<h2 id="teaching">Teaching</h2>
 
 {% for post in site.teaching reversed %}
 {% include archive-single.html %}
@@ -78,6 +80,6 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 ---
 
-# Contact
+<h2 id="contact">Contact</h2>
 
 Prospective students and collaborators are welcome to contact me by email.
