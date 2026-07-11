@@ -209,9 +209,18 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 <h2 id="teaching">Teaching</h2>
 
-{% for post in site.teaching reversed %}
-{% include archive-single.html %}
-{% endfor %}
+<ul>
+  <li>
+    <strong>Functional Programming Languages</strong>  
+    <br>
+    Undergraduate course, Fall 2025 and Fall 2026.
+  </li>
+  <li>
+    <strong>Algorithm Design and Analysis</strong>  
+    <br>
+    Graduate course, Spring 2026.
+  </li>
+</ul>
 
 ---
 
