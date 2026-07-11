@@ -11,19 +11,26 @@ h4[id] {
 
 
 .pub-entry {
-  margin-bottom: 1.35em;
+  margin-bottom: 1.5em;
+  padding-bottom: 1.1em;
+  border-bottom: 1px solid #e5e5e5;
   line-height: 1.55;
+}
+
+.pub-entry p {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
 }
 
 .pub-badge {
   display: inline-block;
-  min-width: 82px;
+  min-width: 86px;
   padding: 2px 8px;
-  margin-right: 6px;
+  margin-right: 8px;
   border-radius: 6px;
   background: #2f4f6f;
   color: #ffffff;
-  font-size: 0.82em;
+  font-size: 0.78em;
   font-weight: 700;
   text-align: center;
 }
