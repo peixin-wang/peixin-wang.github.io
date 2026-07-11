@@ -44,7 +44,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Qiyuan Xu, Xiaokun Luan, Renxi Wang, Joshua Ong Jun Leang, <strong>Peixin Wang</strong>, Haonan Li, Wenda Li, and Conrad Watt.
     </div>
     <div class="pub2-venue">
-      International Conference on Learning Representations (ICLR), Accepted, 2026. <strong>CCF-A</strong>.
+      International Conference on Learning Representations (ICLR), 2026. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
       <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
@@ -60,7 +60,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Qixuan Xu, Renxi Wang, <strong>Peixin Wang</strong><sup>*</sup>, Haonan Li, and Conrad Watt.
     </div>
     <div class="pub2-venue">
-      Proceedings of the ACM on Programming Languages (OOPSLA), Accepted, 2026. <strong>CCF-A</strong>.
+      Proceedings of the ACM on Programming Languages (OOPSLA), 2026. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
       <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
@@ -76,7 +76,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Juanen Li, Peng Qian, Guanyan Li, Rui Wang, <strong>Peixin Wang</strong>, Zhiqing Tang, Fuchen Ma, Yuanliang Chen, and Lun Zhang.
     </div>
     <div class="pub2-venue">
-      International Conference on Software Engineering (ICSE), Accepted, 2026. <strong>CCF-A</strong>.
+      International Conference on Software Engineering (ICSE), 2026. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
       <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
@@ -92,7 +92,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Guanyan Li, Juanen Li, Zhilei Han, <strong>Peixin Wang</strong><sup>*</sup>, Hongfei Fu, and Fei He.
     </div>
     <div class="pub2-venue">
-      Proceedings of the ACM on Programming Languages, 9(OOPSLA2): 1809–1836, 2025. <strong>CCF-A</strong>.
+      Proceedings of the ACM on Programming Languages (OOPSLA), 2025. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
       <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
@@ -108,7 +108,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Dapeng Zhi, <strong>Peixin Wang</strong><sup>*</sup>, Si Liu, C.-H. Luke Ong, and Min Zhang.
     </div>
     <div class="pub2-venue">
-      International Conference on Computer Aided Verification (CAV), pp. 401–426, 2024. <strong>CCF-A</strong>.
+      International Conference on Computer Aided Verification (CAV), 2024. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
       <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
@@ -124,7 +124,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       <strong>Peixin Wang</strong>, Tengshun Yang, Hongfei Fu, Guanyan Li, and C.-H. Luke Ong.
     </div>
     <div class="pub2-venue">
-      Proceedings of the ACM on Programming Languages, 8(PLDI): 1361–1386, 2024. <strong>CCF-A</strong>.
+      Proceedings of the ACM on Programming Languages (PLDI), 2024. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
       <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
@@ -140,7 +140,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Dapeng Zhi, <strong>Peixin Wang</strong><sup>*</sup>, Cheng Chen, and Min Zhang.
     </div>
     <div class="pub2-venue">
-      Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 38, No. 18, 2024. <strong>Oral Presentation. CCF-A</strong>.
+      Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024. <strong>Oral Presentation. CCF-A</strong>.
     </div>
     <div class="pub2-links">
       <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
@@ -156,7 +156,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Jiaxu Tian, Dapeng Zhi, Si Liu, <strong>Peixin Wang</strong><sup>*</sup>, Cheng Chen, and Min Zhang.
     </div>
     <div class="pub2-venue">
-      Advances in Neural Information Processing Systems 36, 2023. <strong>CCF-A</strong>.
+      Advances in Neural Information Processing Systems (NeurIPS), 2023. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
       <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
@@ -172,7 +172,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       <strong>Peixin Wang</strong>, Hongfei Fu, Krishnendu Chatterjee, Yuxin Deng, and Ming Xu.
     </div>
     <div class="pub2-venue">
-      Proceedings of the ACM on Programming Languages, 4(POPL): 1–30, 2020. <strong>CCF-A</strong>.
+      Proceedings of the ACM on Programming Languages (POPL), 2020. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
       <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
@@ -188,7 +188,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       <strong>Peixin Wang</strong>, Hongfei Fu, Amir Kafshdar Goharshady, Krishnendu Chatterjee, Xudong Qin, and Wenjun Shi.
     </div>
     <div class="pub2-venue">
-      Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation, pp. 204–220, 2019. <strong>CCF-A</strong>.
+      Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2019. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
       <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
