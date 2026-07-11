@@ -78,9 +78,6 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
     <div class="pub2-venue">
       International Conference on Software Engineering (ICSE), 2026. <strong>CCF-A</strong>.
     </div>
-   # <div class="pub2-links">
-   #   <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
-   # </div>
   </div>
 
   <div class="pub2-item">
@@ -95,7 +92,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Proceedings of the ACM on Programming Languages (OOPSLA), 2025. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
-      <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
+      <a href="https://arxiv.org/abs/2508.12344">arXiv</a> · <a href="https://dl.acm.org/doi/epdf/10.1145/3763115">Published version</a> 
     </div>
   </div>
 
@@ -111,7 +108,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       International Conference on Computer Aided Verification (CAV), 2024. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
-      <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
+      <a href="https://arxiv.org/abs/2404.01769">arXiv</a> · <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-65630-9_20.pdf">Published version</a> 
     </div>
   </div>
 
@@ -127,7 +124,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Proceedings of the ACM on Programming Languages (PLDI), 2024. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
-      <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
+      <a href="https://arxiv.org/abs/2307.13160">arXiv</a> · <a href="https://dl.acm.org/doi/epdf/10.1145/3656432">Published version</a> 
     </div>
   </div>
 
@@ -143,7 +140,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024. <strong>Oral Presentation. CCF-A</strong>.
     </div>
     <div class="pub2-links">
-      <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
+      <a href="https://arxiv.org/abs/2312.09695">arXiv</a> · <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29976">Published version</a> 
     </div>
   </div>
 
@@ -159,7 +156,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Advances in Neural Information Processing Systems (NeurIPS), 2023. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
-      <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
+      <a href="https://openreview.net/pdf?id=hpYb4eUinX">Published version</a> 
     </div>
   </div>
 
@@ -175,7 +172,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Proceedings of the ACM on Programming Languages (POPL), 2020. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
-      <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
+      <a href="https://arxiv.org/abs/1902.04744">arXiv</a> · <a href="https://dl.acm.org/doi/epdf/10.1145/3371093">Published version</a> 
     </div>
   </div>
 
@@ -191,7 +188,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2019. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
-      <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
+      <a href="https://arxiv.org/abs/1902.04659">arXiv</a> · <a href="https://dl.acm.org/doi/epdf/10.1145/3314221.3314581">Published version</a> 
     </div>
   </div>
 
