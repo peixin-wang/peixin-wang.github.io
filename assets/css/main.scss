@@ -38,15 +38,3 @@
     "layout/json_cv"
 ;
 
-
-/* Hide default AcademicPages footer */
-.page__footer,
-.page__footer-follow,
-.page__footer-copyright {
-  display: none !important;
-}
-
-body {
-  padding-bottom: 0 !important;
-  margin-bottom: 0 !important;
-}
