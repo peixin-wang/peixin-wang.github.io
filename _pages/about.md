@@ -29,98 +29,212 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 ---
 
-<h2 id="publications">Publications</h2>
+<h2 id="publications">Selected Publications</h2>
 
-<sup>*</sup> Corresponding author.
+<p class="pw-pub-note"><sup>*</sup> Corresponding author.</p>
 
-<div class="pub-entry" markdown="1">
-<span class="pub-badge">ICLR'26</span> **Neural Theorem Proving for Verification Conditions: A Real-World Benchmark**
+<div class="pw-pub-list">
 
-Qiyuan Xu, Xiaokun Luan, Renxi Wang, Joshua Ong Jun Leang, **Peixin Wang**, Haonan Li, Wenda Li, and Conrad Watt.
+  <div class="pw-pub-item">
+    <div class="pw-pub-title-line">
+      <span class="pw-venue-badge">ICLR 2026</span>
+      <span class="pw-pub-title">Neural Theorem Proving for Verification Conditions: A Real-World Benchmark</span>
+    </div>
+    <div class="pw-pub-authors">
+      Qiyuan Xu, Xiaokun Luan, Renxi Wang, Joshua Ong Jun Leang, <strong>Peixin Wang</strong>, Haonan Li, Wenda Li, and Conrad Watt.
+    </div>
+    <div class="pw-pub-venue">
+      International Conference on Learning Representations (ICLR), Accepted, 2026. <strong>CCF-A</strong>.
+    </div>
+    <div class="pw-pub-links">
+      <a href="#">arXiv</a>
+      <span>·</span>
+      <a href="#">PDF</a>
+      <span>·</span>
+      <a href="#">Code</a>
+    </div>
+  </div>
 
-Accepted. **CCF-A**.  
-[arXiv](#) · [PDF](#) · [Code](#)
-</div>
+  <div class="pw-pub-item">
+    <div class="pw-pub-title-line">
+      <span class="pw-venue-badge">OOPSLA 2026</span>
+      <span class="pw-pub-title">A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL</span>
+    </div>
+    <div class="pw-pub-authors">
+      Qixuan Xu, Renxi Wang, <strong>Peixin Wang</strong><sup>*</sup>, Haonan Li, and Conrad Watt.
+    </div>
+    <div class="pw-pub-venue">
+      Proceedings of the ACM on Programming Languages (OOPSLA), Accepted, 2026. <strong>CCF-A</strong>.
+    </div>
+    <div class="pw-pub-links">
+      <a href="#">arXiv</a>
+      <span>·</span>
+      <a href="#">PDF</a>
+      <span>·</span>
+      <a href="#">Code</a>
+    </div>
+  </div>
 
-<div class="pub-entry" markdown="1">
-<span class="pub-badge">OOPSLA'26</span> **A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL**
+  <div class="pw-pub-item">
+    <div class="pw-pub-title-line">
+      <span class="pw-venue-badge">ICSE 2026</span>
+      <span class="pw-pub-title">EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models</span>
+    </div>
+    <div class="pw-pub-authors">
+      Juanen Li, Peng Qian, Guanyan Li, Rui Wang, <strong>Peixin Wang</strong>, Zhiqing Tang, Fuchen Ma, Yuanliang Chen, and Lun Zhang.
+    </div>
+    <div class="pw-pub-venue">
+      International Conference on Software Engineering (ICSE), Accepted, 2026. <strong>CCF-A</strong>.
+    </div>
+    <div class="pw-pub-links">
+      <a href="#">arXiv</a>
+      <span>·</span>
+      <a href="#">PDF</a>
+      <span>·</span>
+      <a href="#">Code</a>
+    </div>
+  </div>
 
-Qixuan Xu, Renxi Wang, **Peixin Wang**<sup>*</sup>, Haonan Li, and Conrad Watt.
+  <div class="pw-pub-item">
+    <div class="pw-pub-title-line">
+      <span class="pw-venue-badge">OOPSLA 2025</span>
+      <span class="pw-pub-title">Structural Abstraction and Refinement for Probabilistic Programs</span>
+    </div>
+    <div class="pw-pub-authors">
+      Guanyan Li, Juanen Li, Zhilei Han, <strong>Peixin Wang</strong><sup>*</sup>, Hongfei Fu, and Fei He.
+    </div>
+    <div class="pw-pub-venue">
+      Proceedings of the ACM on Programming Languages, 9(OOPSLA2): 1809–1836, 2025. <strong>CCF-A</strong>.
+    </div>
+    <div class="pw-pub-links">
+      <a href="#">arXiv</a>
+      <span>·</span>
+      <a href="#">PDF</a>
+      <span>·</span>
+      <a href="#">Code</a>
+    </div>
+  </div>
 
-Accepted. **CCF-A**.  
-[arXiv](#) · [PDF](#) · [Code](#)
-</div>
+  <div class="pw-pub-item">
+    <div class="pw-pub-title-line">
+      <span class="pw-venue-badge">CAV 2024</span>
+      <span class="pw-pub-title">Unifying Qualitative and Quantitative Safety Verification of DNN-Controlled Systems</span>
+    </div>
+    <div class="pw-pub-authors">
+      Dapeng Zhi, <strong>Peixin Wang</strong><sup>*</sup>, Si Liu, C.-H. Luke Ong, and Min Zhang.
+    </div>
+    <div class="pw-pub-venue">
+      International Conference on Computer Aided Verification (CAV), pp. 401–426, 2024. <strong>CCF-A</strong>.
+    </div>
+    <div class="pw-pub-links">
+      <a href="#">arXiv</a>
+      <span>·</span>
+      <a href="#">PDF</a>
+      <span>·</span>
+      <a href="#">Code</a>
+    </div>
+  </div>
 
-<div class="pub-entry" markdown="1">
-<span class="pub-badge">ICSE'26</span> **EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models**
+  <div class="pw-pub-item">
+    <div class="pw-pub-title-line">
+      <span class="pw-venue-badge">PLDI 2024</span>
+      <span class="pw-pub-title">Static Posterior Inference of Bayesian Probabilistic Programming via Polynomial Solving</span>
+    </div>
+    <div class="pw-pub-authors">
+      <strong>Peixin Wang</strong>, Tengshun Yang, Hongfei Fu, Guanyan Li, and C.-H. Luke Ong.
+    </div>
+    <div class="pw-pub-venue">
+      Proceedings of the ACM on Programming Languages, 8(PLDI): 1361–1386, 2024. <strong>CCF-A</strong>.
+    </div>
+    <div class="pw-pub-links">
+      <a href="#">arXiv</a>
+      <span>·</span>
+      <a href="#">PDF</a>
+      <span>·</span>
+      <a href="#">Code</a>
+    </div>
+  </div>
 
-Juanen Li, Peng Qian, Guanyan Li, Rui Wang, **Peixin Wang**, Zhiqing Tang, Fuchen Ma, Yuanliang Chen, Lun Zhang.
+  <div class="pw-pub-item">
+    <div class="pw-pub-title-line">
+      <span class="pw-venue-badge">AAAI 2024</span>
+      <span class="pw-pub-title">Robustness Verification of Deep Reinforcement Learning Based Control Systems Using Reward Martingales</span>
+    </div>
+    <div class="pw-pub-authors">
+      Dapeng Zhi, <strong>Peixin Wang</strong><sup>*</sup>, Cheng Chen, and Min Zhang.
+    </div>
+    <div class="pw-pub-venue">
+      Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 38, No. 18, 2024. <strong>Oral Presentation. CCF-A</strong>.
+    </div>
+    <div class="pw-pub-links">
+      <a href="#">arXiv</a>
+      <span>·</span>
+      <a href="#">PDF</a>
+      <span>·</span>
+      <a href="#">Code</a>
+    </div>
+  </div>
 
-Accepted. **CCF-A**.  
-[arXiv](#) · [PDF](#) · [Code](#)
-</div>
+  <div class="pw-pub-item">
+    <div class="pw-pub-title-line">
+      <span class="pw-venue-badge">NeurIPS 2023</span>
+      <span class="pw-pub-title">Boosting Verification of Deep Reinforcement Learning via Piece-wise Linear Decision Neural Networks</span>
+    </div>
+    <div class="pw-pub-authors">
+      Jiaxu Tian, Dapeng Zhi, Si Liu, <strong>Peixin Wang</strong><sup>*</sup>, Cheng Chen, and Min Zhang.
+    </div>
+    <div class="pw-pub-venue">
+      Advances in Neural Information Processing Systems 36, 2023. <strong>CCF-A</strong>.
+    </div>
+    <div class="pw-pub-links">
+      <a href="#">arXiv</a>
+      <span>·</span>
+      <a href="#">PDF</a>
+      <span>·</span>
+      <a href="#">Code</a>
+    </div>
+  </div>
 
-<div class="pub-entry" markdown="1">
-<span class="pub-badge">OOPSLA'25</span> **Structural Abstraction and Refinement for Probabilistic Programs**
+  <div class="pw-pub-item">
+    <div class="pw-pub-title-line">
+      <span class="pw-venue-badge">POPL 2020</span>
+      <span class="pw-pub-title">Proving Expected Sensitivity of Probabilistic Programs with Randomized Variable-Dependent Termination Time</span>
+    </div>
+    <div class="pw-pub-authors">
+      <strong>Peixin Wang</strong>, Hongfei Fu, Krishnendu Chatterjee, Yuxin Deng, and Ming Xu.
+    </div>
+    <div class="pw-pub-venue">
+      Proceedings of the ACM on Programming Languages, 4(POPL): 1–30, 2020. <strong>CCF-A</strong>.
+    </div>
+    <div class="pw-pub-links">
+      <a href="#">arXiv</a>
+      <span>·</span>
+      <a href="#">PDF</a>
+      <span>·</span>
+      <a href="#">Code</a>
+    </div>
+  </div>
 
-Guanyan Li, Juanen Li, Zhilei Han, **Peixin Wang**<sup>*</sup>, Hongfei Fu, and Fei He.
+  <div class="pw-pub-item">
+    <div class="pw-pub-title-line">
+      <span class="pw-venue-badge">PLDI 2019</span>
+      <span class="pw-pub-title">Cost Analysis of Nondeterministic Probabilistic Programs</span>
+    </div>
+    <div class="pw-pub-authors">
+      <strong>Peixin Wang</strong>, Hongfei Fu, Amir Kafshdar Goharshady, Krishnendu Chatterjee, Xudong Qin, and Wenjun Shi.
+    </div>
+    <div class="pw-pub-venue">
+      Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation, pp. 204–220, 2019. <strong>CCF-A</strong>.
+    </div>
+    <div class="pw-pub-links">
+      <a href="#">arXiv</a>
+      <span>·</span>
+      <a href="#">PDF</a>
+      <span>·</span>
+      <a href="#">Code</a>
+    </div>
+  </div>
 
-Proceedings of the ACM on Programming Languages, 9(OOPSLA2): 1809–1836. **CCF-A**.  
-[arXiv](#) · [PDF](#) · [Code](#)
-</div>
-
-<div class="pub-entry" markdown="1">
-<span class="pub-badge">CAV'24</span> **Unifying Qualitative and Quantitative Safety Verification of DNN-Controlled Systems**
-
-Dapeng Zhi, **Peixin Wang**<sup>*</sup>, Si Liu, C.-H. Luke Ong, and Min Zhang.
-
-International Conference on Computer Aided Verification, pp. 401–426. **CCF-A**.  
-[arXiv](#) · [PDF](#) · [Code](#)
-</div>
-
-<div class="pub-entry" markdown="1">
-<span class="pub-badge">PLDI'24</span> **Static Posterior Inference of Bayesian Probabilistic Programming via Polynomial Solving**
-
-**Peixin Wang**, Tengshun Yang, Hongfei Fu, Guanyan Li, and C.-H. Luke Ong.
-
-Proceedings of the ACM on Programming Languages, 8(PLDI): 1361–1386. **CCF-A**.  
-[arXiv](#) · [PDF](#) · [Code](#)
-</div>
-
-<div class="pub-entry" markdown="1">
-<span class="pub-badge">AAAI'24</span> **Robustness Verification of Deep Reinforcement Learning Based Control Systems Using Reward Martingales**
-
-Dapeng Zhi, **Peixin Wang**<sup>*</sup>, Cheng Chen, and Min Zhang.
-
-Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 38, No. 18. **Oral Presentation. CCF-A**.  
-[arXiv](#) · [PDF](#) · [Code](#)
-</div>
-
-<div class="pub-entry" markdown="1">
-<span class="pub-badge">NeurIPS'23</span> **Boosting Verification of Deep Reinforcement Learning via Piece-wise Linear Decision Neural Networks**
-
-Jiaxu Tian, Dapeng Zhi, Si Liu, **Peixin Wang**<sup>*</sup>, Cheng Chen, and Min Zhang.
-
-Advances in Neural Information Processing Systems 36. **CCF-A**.  
-[arXiv](#) · [PDF](#) · [Code](#)
-</div>
-
-<div class="pub-entry" markdown="1">
-<span class="pub-badge">POPL'20</span> **Proving Expected Sensitivity of Probabilistic Programs with Randomized Variable-Dependent Termination Time**
-
-**Peixin Wang**, Hongfei Fu, Krishnendu Chatterjee, Yuxin Deng, and Ming Xu.
-
-Proceedings of the ACM on Programming Languages, 4(POPL): 1–30. **CCF-A**.  
-[arXiv](#) · [PDF](#) · [Code](#)
-</div>
-
-<div class="pub-entry" markdown="1">
-<span class="pub-badge">PLDI'19</span> **Cost Analysis of Nondeterministic Probabilistic Programs**
-
-**Peixin Wang**, Hongfei Fu, Amir Kafshdar Goharshady, Krishnendu Chatterjee, Xudong Qin, and Wenjun Shi.
-
-Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation, pp. 204–220. **CCF-A**.  
-[arXiv](#) · [PDF](#) · [Code](#)
 </div>
 
 ---
