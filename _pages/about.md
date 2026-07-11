@@ -47,7 +47,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       International Conference on Learning Representations (ICLR), 2026. <strong>CCF-A</strong>.
     </div>
     <div class="pub2-links">
-      <a href="https://arxiv.org/abs/2601.18944">arXiv</a> · <a href="https://dl.acm.org/doi/epdf/10.1145/3798275">Published version</a> 
+      <a href="https://arxiv.org/abs/2601.18944">arXiv</a> · <a href="https://openreview.net/pdf?id=MfDyickxQA">Published version</a> 
     </div>
   </div>
 
@@ -78,9 +78,9 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
     <div class="pub2-venue">
       International Conference on Software Engineering (ICSE), 2026. <strong>CCF-A</strong>.
     </div>
-    <div class="pub2-links">
-      <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
-    </div>
+   # <div class="pub2-links">
+   #   <a href="#">arXiv</a> · <a href="#">PDF</a> · <a href="#">Code</a>
+   # </div>
   </div>
 
   <div class="pub2-item">
