@@ -7,16 +7,23 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+
 main:
   - title: "About me"
-    url: /#about/
+    url: /#about-me
+
+  - title: "Research"
+    url: /#research-interests
 
   - title: "Publications"
-    url: /publications/
+    url: /#publications
 
   - title: "Talks"
-    url: /talks/    
+    url: /#talks
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /#teaching
+
+  - title: "Contact"
+    url: /#contact
     
