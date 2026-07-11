@@ -8,3 +8,22 @@ h3[id],
 h4[id] {
   scroll-margin-top: 110px;
 }
+
+
+.pub-entry {
+  margin-bottom: 1.35em;
+  line-height: 1.55;
+}
+
+.pub-badge {
+  display: inline-block;
+  min-width: 82px;
+  padding: 2px 8px;
+  margin-right: 6px;
+  border-radius: 6px;
+  background: #2f4f6f;
+  color: #ffffff;
+  font-size: 0.82em;
+  font-weight: 700;
+  text-align: center;
+}
