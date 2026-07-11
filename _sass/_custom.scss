@@ -1,36 +1,92 @@
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 120px;
 }
 
 h1[id],
 h2[id],
 h3[id],
-h4[id] {
-  scroll-margin-top: 110px;
+h4[id],
+h5[id],
+h6[id] {
+  scroll-margin-top: 120px;
 }
 
-
-.pub-entry {
-  margin-bottom: 1.5em;
-  padding-bottom: 1.1em;
-  border-bottom: 1px solid #e5e5e5;
-  line-height: 1.55;
+.pw-pub-note {
+  margin-top: 0.2rem;
+  margin-bottom: 1.2rem;
+  color: #666;
+  font-size: 0.92rem;
 }
 
-.pub-entry p {
-  margin-top: 0.25em;
-  margin-bottom: 0.25em;
+.pw-pub-list {
+  margin-top: 1rem;
 }
 
-.pub-badge {
+.pw-pub-item {
+  margin-bottom: 1.7rem;
+  padding-bottom: 1.35rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.pw-pub-title-line {
+  display: flex;
+  align-items: baseline;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.45rem;
+}
+
+.pw-venue-badge {
   display: inline-block;
-  min-width: 86px;
-  padding: 2px 8px;
-  margin-right: 8px;
-  border-radius: 6px;
-  background: #2f4f6f;
+  padding: 0.12rem 0.48rem;
+  border-radius: 4px;
+  background: #123c8c;
   color: #ffffff;
-  font-size: 0.78em;
+  font-size: 0.78rem;
   font-weight: 700;
-  text-align: center;
+  line-height: 1.35;
+  white-space: nowrap;
+  letter-spacing: 0.01em;
+}
+
+.pw-pub-title {
+  font-size: 1.08rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #2f3a45;
+}
+
+.pw-pub-authors {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  line-height: 1.55;
+  color: #3f4852;
+}
+
+.pw-pub-venue {
+  margin-top: 0.25rem;
+  margin-bottom: 0.35rem;
+  line-height: 1.55;
+  color: #4b5563;
+}
+
+.pw-pub-links {
+  margin-top: 0.25rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.pw-pub-links a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pw-pub-links a:hover {
+  text-decoration: underline;
+}
+
+.pw-pub-links span {
+  margin: 0 0.28rem;
+  color: #9ca3af;
 }
