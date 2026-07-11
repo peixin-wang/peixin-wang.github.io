@@ -73,13 +73,6 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 ---
 
 
-## Service
-
-- Reviewer for NeurIPS, ICML, ICLR, CAV, OOPSLA, AISTATS, etc.
-- Artifact Evaluation Committee member for PLDI, CAV, etc.
-
----
-
 <h2 id="contact">Contact</h2>
 
 Prospective students and collaborators are welcome to contact me by email.
