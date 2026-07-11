@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Peixin Wang (王培新)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Youth Research Professor (青年研究员), ECNU"
+  location         : "Shanghai, China"
+  employer         : "East China Normal University"
   uri              : # URL
   email            : "none@example.org" 
 
