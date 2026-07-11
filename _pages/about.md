@@ -204,6 +204,11 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 <ul>
   <li>
+    <strong>Unifying Qualitative and Quantitative Safety Verification of DNN-Controlled Systems</strong>.  
+    CAV 2024, Montreal, QC, Canada, July 2024.
+  </li>
+
+  <li>
     <strong>Robustness Verification of Deep Reinforcement Learning Based Control Systems Using Reward Martingales</strong>.  
     AAAI 2024, Vancouver, BC, Canada, February 2024.
   </li>
@@ -211,11 +216,6 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
   <li>
     <strong>Static Posterior Inference of Bayesian Probabilistic Programming via Polynomial Solving</strong>.  
     LAFI 2024, Online, January 2024.
-  </li>
-
-  <li>
-    <strong>Proving Expected Sensitivity of Probabilistic Programs with Randomized Variable-Dependent Termination Time</strong>.  
-    The 2nd International Joint Conference on Theoretical Computer Science, Online, August 2021.
   </li>
 
   <li>
