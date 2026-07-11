@@ -31,6 +31,8 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 <h2 id="publications">Selected Publications</h2>
 
+<p class="pub2-note"><sup style="font-size: 0.9em;">*</sup> denotes corresponding author.</p>
+
 <p class="pub2-note"><sup>*</sup> Corresponding author.</p>
 
 <div class="pub2-list">
@@ -137,7 +139,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       Dapeng Zhi, <strong>Peixin Wang</strong><sup>*</sup>, Cheng Chen, and Min Zhang.
     </div>
     <div class="pub2-venue">
-      Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.  
+      Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.  <br>
       <strong><i class="fas fa-award award-icon"></i> Oral Presentation. CCF-A</strong>.
     </div>
     <div class="pub2-links">
