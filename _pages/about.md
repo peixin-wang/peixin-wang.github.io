@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<h2 id="about">About Me</h2>
 
 I am a **Youth Researcher Professor** at **Software Engineering Institue, East China Normal University**. My research focuses on **formal methods** and **trustworthy artificial intelligence**, with particular interests in program verification, probabilistic programming, runtime verification, safe reinforcement learning, embodied AI safety, and LLM safety.
 
