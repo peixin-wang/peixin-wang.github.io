@@ -31,7 +31,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 <h2 id="publications">Selected Publications</h2>
 
-<p class="pub2-note"><sup>*</sup> denotes corresponding author.</p>
+<p class="pub2-note"><sup>*</sup> Corresponding author.</p>
 
 <div class="pub2-list">
 
