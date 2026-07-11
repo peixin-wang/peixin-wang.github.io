@@ -26,4 +26,23 @@ main:
 
   - title: "Contact"
     url: /#contact
+
+main:
+  - title: "About me"
+    url: /#about
+
+  - title: "Research"
+    url: /#research
+
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Talks"
+    url: /#talks
+
+  - title: "Teaching"
+    url: /#teaching
+
+  - title: "Contact"
+    url: /#contact
     
