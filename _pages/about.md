@@ -1,4 +1,11 @@
-## About Me
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a **Youth Researcher Professor** at **Software Engineering Institue, East China Normal University**. My research focuses on **formal methods** and **trustworthy artificial intelligence**, with particular interests in program verification, probabilistic programming, runtime verification, safe reinforcement learning, embodied AI safety, and LLM safety.
 
