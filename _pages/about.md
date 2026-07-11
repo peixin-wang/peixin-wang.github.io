@@ -31,9 +31,6 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 <h2 id="publications">Publications</h2>
 
-
-## Selected Publications
-
 <sup>*</sup> Corresponding author.
 
 <div class="pub-entry">
