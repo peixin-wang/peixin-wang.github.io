@@ -131,7 +131,22 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
     </div>
   </div>
 
-
+  <div class="pub2-item">
+    <div class="pub2-title-line">
+      <span class="pub2-badge">AAAI 2024</span>
+      <span class="pub2-title">Robustness Verification of Deep Reinforcement Learning Based Control Systems Using Reward Martingales</span>
+    </div>
+    <div class="pub2-authors">
+      Dapeng Zhi, <strong>Peixin Wang</strong><span style="font-size: 1.25em; font-weight: 700; vertical-align: super; line-height: 0;">*</span>, Cheng Chen, and Min Zhang.
+    </div>
+    <div class="pub2-venue">
+      Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024. <strong>CCF-A</strong>. <br>
+      <strong><i class="fas fa-award award-icon"></i> Oral Presentation</strong>. 
+    </div>
+    <div class="pub2-links">
+      <a href="https://arxiv.org/abs/2312.09695">arXiv</a> · <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29976">Published version</a> 
+    </div>
+  </div>
 
   <div class="pub2-item">
     <div class="pub2-title-line">
