@@ -20,13 +20,12 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 <h2 id="research">Research Interests</h2>
 
-- Formal Methods
 - Program Verification
 - Probabilistic Programming
-- Runtime Verification
 - Safe Reinforcement Learning
 - Embodied AI Safety
 - LLM Safety
+- Runtime Verification
 
 ---
 
