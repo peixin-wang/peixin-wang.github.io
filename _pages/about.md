@@ -14,7 +14,7 @@ I am currently a **Youth Researcher Professor** at **Software Engineering Instit
 
 Previously, I was a postdoctoral researcher at the **University of Oxford** and **Nanyang Technological University**. I received my Ph.D. from Shanghai Jiao Tong University, and my B.Sc. from East China Normal University.
 
-**Prospective students:** I am always looking for self-motivated undergraduate, master, and Ph.D. students who are interested in formal methods, trustworthy AI, programming languages, safe intelligent systems, and AI safety. Please feel free to contact me by email.
+**Prospective students:** I am always looking for self-motivated undergraduate, master, and Ph.D. students who are interested in formal methods, trustworthy AI, programming languages, safe intelligent systems, and AI safety. Please feel free to contact me by email (pxwang@sei.ecnu.edu.cn).
 
 ---
 
@@ -252,4 +252,4 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 <h2 id="contact">Contact</h2>
 
-Prospective students and collaborators are welcome to contact me by email.
+Prospective students and collaborators are welcome to contact me by email (pxwang@sei.ecnu.edu.cn).
