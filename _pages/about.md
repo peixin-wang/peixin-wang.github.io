@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Peixin Wang - Homepage"
+title: "About me"
 author_profile: true
-description: "I am currently a Youth Researcher at East China Normal University. My research focuses on formal methods, program verification, probabilistic programming, and trustworthy AI."
 redirect_from:
   - /about/
   - /about.html
 ---
+
 
 <div id="about"></div>
 
