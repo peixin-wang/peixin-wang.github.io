@@ -33,9 +33,9 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 <p class="pub2-note"><span style="font-size: 1.25em; font-weight: 700; vertical-align: super; line-height: 0;">*</span> denotes corresponding author.</p>
 
-<p class="pub2-note"><sup style="font-size: 0.9em;">*</sup> denotes corresponding author.</p>
+# <p class="pub2-note"><sup style="font-size: 0.9em;">*</sup> denotes corresponding author.</p>
 
-<p class="pub2-note"><sup>*</sup> Corresponding author.</p>
+# <p class="pub2-note"><sup>*</sup> Corresponding author.</p>
 
 <div class="pub2-list">
 
