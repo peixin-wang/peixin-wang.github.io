@@ -33,9 +33,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
 
 <p class="pub2-note"><span style="font-size: 1.25em; font-weight: 700; vertical-align: super; line-height: 0;">*</span> denotes corresponding author.</p>
 
-# <p class="pub2-note"><sup style="font-size: 0.9em;">*</sup> denotes corresponding author.</p>
 
-# <p class="pub2-note"><sup>*</sup> Corresponding author.</p>
 
 <div class="pub2-list">
 
@@ -61,7 +59,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       <span class="pub2-title">A Minimalist Proof Language for Neural Theorem Proving over Isabelle/HOL</span>
     </div>
     <div class="pub2-authors">
-      Qixuan Xu, Renxi Wang, <strong>Peixin Wang</strong><sup>*</sup>, Haonan Li, and Conrad Watt.
+      Qixuan Xu, Renxi Wang, <strong>Peixin Wang</strong><span style="font-size: 1.25em; font-weight: 700; vertical-align: super; line-height: 0;">*</span>, Haonan Li, and Conrad Watt.
     </div>
     <div class="pub2-venue">
       Proceedings of the ACM on Programming Languages (OOPSLA), 2026. <strong>CCF-A</strong>.
