@@ -89,7 +89,7 @@ Previously, I was a postdoctoral researcher at the **University of Oxford** and 
       <span class="pub2-title">Structural Abstraction and Refinement for Probabilistic Programs</span>
     </div>
     <div class="pub2-authors">
-      Guanyan Li, Juanen Li, Zhilei Han, <strong>Peixin Wang</strong><sup>*</sup>, Hongfei Fu, and Fei He.
+      Guanyan Li, Juanen Li, Zhilei Han, <strong>Peixin Wang</strong><span style="font-size: 1.25em; font-weight: 700; vertical-align: super; line-height: 0;">*</span>, Hongfei Fu, and Fei He.
     </div>
     <div class="pub2-venue">
       Proceedings of the ACM on Programming Languages (OOPSLA), 2025. <strong>CCF-A</strong>.
