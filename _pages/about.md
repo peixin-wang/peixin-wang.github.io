@@ -10,7 +10,7 @@ redirect_from:
 
 <div id="about"></div>
 
-I am currently a **Youth Researcher Professor** at **Software Engineering Institue, East China Normal University**. My research focuses on **formal methods** and **trustworthy artificial intelligence**, with particular interests in program verification, probabilistic programming, safe reinforcement learning, embodied AI safety, and LLM safety.
+I am currently a **Youth Researcher Professor** at **Software Engineering Institue, East China Normal University**. My research focuses on **formal methods** and **trustworthy artificial intelligence**, with particular interests in program verification, probabilistic programming, autoformalization with LLMs, safe reinforcement learning, embodied AI safety, and LLM safety.
 
 Previously, I was a postdoctoral researcher at **University of Oxford** and **Nanyang Technological University**. I received my Ph.D. from Shanghai Jiao Tong University, and my B.Sc. from East China Normal University.
 
@@ -22,10 +22,10 @@ Previously, I was a postdoctoral researcher at **University of Oxford** and **Na
 
 - Program Verification
 - Probabilistic Programming
+- Autoformalization with LLMs (natural language to formal specifications like LTL, FOL)
 - Safe Reinforcement Learning
 - Embodied AI Safety
 - LLM Safety
-- Runtime Verification
 
 ---
 
