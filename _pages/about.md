@@ -38,6 +38,25 @@ Previously, I was a postdoctoral researcher at **University of Oxford** and **Na
 <div class="pub2-list">
 
   <div class="pub2-item">
+  <div class="pub2-title-line">
+    <span class="pub2-badge">IFAC World Congress 2026</span>
+    <span class="pub2-title">Refined Barrier Conditions for Finite-Time Safety and Reach-Avoid Guarantees in Stochastic Systems</span>
+  </div>
+
+  <div class="pub2-authors">
+    Bai Xue, C.-H. Luke Ong, Dominik Wagner, and <strong>Peixin Wang</strong><span style="font-size: 1.25em; font-weight: 700; vertical-align: super; line-height: 0;">*</span>.
+  </div>
+
+  <div class="pub2-venue">
+    World Congress of the International Federation of Automatic Control, 2026. <strong>CAA-A</strong>
+  </div>
+
+  <div class="pub2-links">
+    <a href="#">Published version</a>
+  </div>
+</div>
+
+  <div class="pub2-item">
     <div class="pub2-title-line">
       <span class="pub2-badge">ICLR 2026</span>
       <span class="pub2-title">Neural Theorem Proving for Verification Conditions: A Real-World Benchmark</span>
