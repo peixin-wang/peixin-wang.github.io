@@ -48,12 +48,9 @@ Previously, I was a postdoctoral researcher at **University of Oxford** and **Na
   </div>
 
   <div class="pub2-venue">
-    World Congress of the International Federation of Automatic Control, 2026. <strong>CAA-A</strong>
+    World Congress of the International Federation of Automatic Control, 2026. <strong>CAA-A</strong>.
   </div>
 
-  <div class="pub2-links">
-    <a href="#">Published version</a>
-  </div>
 </div>
 
   <div class="pub2-item">
@@ -100,6 +97,25 @@ Previously, I was a postdoctoral researcher at **University of Oxford** and **Na
       International Conference on Software Engineering (ICSE), 2026. <strong>CCF-A</strong>.
     </div>
   </div>
+
+  <div class="pub2-item">
+  <div class="pub2-title-line">
+    <span class="pub2-badge">Neural Networks 2026</span>
+    <span class="pub2-title">MaskCtrl: Training Mask Networks as Self-Explainable and Performant Controllers via Deep Reinforcement Learning</span>
+  </div>
+
+  <div class="pub2-authors">
+    Shi Peng, Si Liu, Dapeng Zhi, <strong>Peixin Wang</strong><span style="font-size: 1.25em; font-weight: 700; vertical-align: super; line-height: 0;">*</span>, and Min Zhang.
+  </div>
+
+  <div class="pub2-venue">
+    Neural Networks, 2026. <strong>CCF-B</strong>.
+  </div>
+
+  <div class="pub2-links">
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026005678">Published version</a>
+  </div>
+</div>
 
   <div class="pub2-item">
     <div class="pub2-title-line">
