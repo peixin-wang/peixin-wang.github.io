@@ -100,7 +100,7 @@ Previously, I was a postdoctoral researcher at **University of Oxford** and **Na
 
   <div class="pub2-item">
   <div class="pub2-title-line">
-    <span class="pub2-badge">Neural Networks 2026</span>
+    <span class="pub2-badge">NN 2026</span>
     <span class="pub2-title">MaskCtrl: Training Mask Networks as Self-Explainable and Performant Controllers via Deep Reinforcement Learning</span>
   </div>
 
@@ -132,6 +132,25 @@ Previously, I was a postdoctoral researcher at **University of Oxford** and **Na
       <a href="https://arxiv.org/abs/2508.12344">arXiv</a> · <a href="https://dl.acm.org/doi/epdf/10.1145/3763115">Published version</a> 
     </div>
   </div>
+
+  <div class="pub2-item">
+  <div class="pub2-title-line">
+    <span class="pub2-badge">NN 2025</span>
+    <span class="pub2-title">ATA: An Abstract-Train-Abstract Approach for Explanation-Friendly Deep Reinforcement Learning</span>
+  </div>
+
+  <div class="pub2-authors">
+    Shi Peng, Si Liu, Dapeng Zhi, <strong>Peixin Wang</strong>, Chenyang Xu, Cheng Chen, and Min Zhang.
+  </div>
+
+  <div class="pub2-venue">
+    Neural Networks, 2025. <strong>CCF-B</strong>.
+  </div>
+
+  <div class="pub2-links">
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S089360802500629X">Published version</a>
+  </div>
+</div>
 
   <div class="pub2-item">
     <div class="pub2-title-line">
