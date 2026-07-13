@@ -202,6 +202,25 @@ Previously, I was a postdoctoral researcher at **University of Oxford** and **Na
   </div>
 
   <div class="pub2-item">
+  <div class="pub2-title-line">
+    <span class="pub2-badge">VMCAI 2024</span>
+    <span class="pub2-title">Taming Reachability Analysis of DNN-Controlled Systems via Abstraction-Based Training</span>
+  </div>
+
+  <div class="pub2-authors">
+    Jiaxu Tian, Dapeng Zhi, Si Liu, <strong>Peixin Wang</strong>, Guy Katz, and Min Zhang.
+  </div>
+
+  <div class="pub2-venue">
+    Verification, Model Checking, and Abstract Interpretation: 25th International Conference (VMCAI), 2024. <strong>CCF-B</strong>.
+  </div>
+
+  <div class="pub2-links">
+    <a href="https://arxiv.org/abs/2211.11127">Preprint</a> · <a href="https://link.springer.com/chapter/10.1007/978-3-031-50521-8_4">Published version</a>
+  </div>
+</div>
+
+  <div class="pub2-item">
     <div class="pub2-title-line">
       <span class="pub2-badge">NeurIPS 2023</span>
       <span class="pub2-title">Boosting Verification of Deep Reinforcement Learning via Piece-wise Linear Decision Neural Networks</span>
