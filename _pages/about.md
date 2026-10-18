@@ -96,6 +96,9 @@ Previously, I was a postdoctoral researcher at **University of Oxford** and **Na
     <div class="pub2-venue">
       International Conference on Software Engineering (ICSE), 2026. <strong>CCF-A</strong>.
     </div>
+    <div class="pub2-links">
+    <a href="https://dl.acm.org/doi/epdf/10.1145/3744916.3773166">Published version</a>
+  </div>
   </div>
 
   <div class="pub2-item">
